@@ -12,8 +12,6 @@
         <activiti:formProperty id="bankId_scan_passport" name="Сканована копія паспорту;завантажте скановану копію одним файлом формату pdf або архівом zip ;bNew=true" type="file" default=" " required="true"></activiti:formProperty>
         <activiti:formProperty id="bankIdinn" name="ІПН" type="string" required="true"></activiti:formProperty>
         <activiti:formProperty id="bankId_scan_inn" name="сканована копія ІПН; ;bNew=true" type="file" required="true"></activiti:formProperty>
-        <activiti:formProperty id="sAdressBuilding" name="Адреса будівлі щодо якої запрошується дозвіл на знесення" type="string" required="true"></activiti:formProperty>
-        <activiti:formProperty id="fSvidoztvoNaPravoSobstvennosti" name="Свідоцтво про право власності на будинок; ;bNew=true" type="file" required="true"></activiti:formProperty>
         <activiti:formProperty id="email" name="E-Mail адреса для зворотнього зв'язку" type="string" required="true"></activiti:formProperty>
         <activiti:formProperty id="phone" name="Контактний (особистий) номер телефону для зворотнього зв'язку" type="string" default="+380" required="true"></activiti:formProperty>
         <activiti:formProperty id="sNameOrgan" name="Центр надання адмінпослуг ; ;bVisible=false" type="string"></activiti:formProperty>
@@ -86,8 +84,6 @@
         <activiti:formProperty id="bankId_scan_passport" name="Сканована копія паспорту;завантажте скановану копію одним файлом формату pdf або архівом zip ;bNew=true" type="file" default=" " required="true"></activiti:formProperty>
         <activiti:formProperty id="bankIdinn" name="ІПН" type="string" required="true"></activiti:formProperty>
         <activiti:formProperty id="bankId_scan_inn" name="сканована копія ІПН; ;bNew=true" type="file" required="true"></activiti:formProperty>
-        <activiti:formProperty id="sAdressBuilding" name="Адреса будівлі щодо якої запрошується дозвіл на знесення" type="string" required="true"></activiti:formProperty>
-        <activiti:formProperty id="fSvidoztvoNaPravoSobstvennosti" name="Свідоцтво про право власності на будинок; ;bNew=true" type="file" required="true"></activiti:formProperty>
         <activiti:formProperty id="email" name="E-Mail адреса для зворотнього зв'язку" type="string" required="true"></activiti:formProperty>
         <activiti:formProperty id="phone" name="Контактний (особистий) номер телефону для зворотнього зв'язку" type="string" default="+380" required="true"></activiti:formProperty>
         <activiti:formProperty id="sNameOrgan" name="Центр надання адмінпослуг ; ;bVisible=false" type="string"></activiti:formProperty>
